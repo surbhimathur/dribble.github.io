@@ -43,7 +43,7 @@ nav{
     -webkit-box-pack:start;
     -ms-flex-pack:start;
     justify-content:flex-start;
-    max-width:1310px;
+    max-width:1480px;
     height:80px;
     margin:0 auto;
 }
@@ -106,7 +106,7 @@ label{
     right:180px;
     top:25px;
     border-radius: 10px;
-    height:40px;
+    height:45px;
    
     
 }
@@ -861,7 +861,7 @@ footer{
         display: none;
         position:fixed;
         top:80px;
-        height:30vh;
+        height:50vh;
         background-color:white;
         margin:0;
     }
